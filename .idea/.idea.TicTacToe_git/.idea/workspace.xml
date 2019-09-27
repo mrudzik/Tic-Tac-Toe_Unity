@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c02c930-a16e-4dd1-856b-88e64dd79355" name="Default Changelist" comment="" />
+    <list default="true" id="7c02c930-a16e-4dd1-856b-88e64dd79355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe_git/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe_git/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe_git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe_git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/CustomizationController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/CustomizationController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Controllers/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Controllers/MainMenuController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Controllers/MainMenuController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,33 +19,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameUIController.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FacebookControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="1224">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
               <folding>
-                <marker date="1568930740650" expanded="false" signature="6:114" ph="..." />
-                <marker date="1568930740650" expanded="true" signature="161:3243" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="320:759" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="326:380" ph="/* Tip for game table ... */" />
-                <marker date="1568930740650" expanded="true" signature="500:755" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="530:743" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="927:1291" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="1127:1167" ph="/* Side Panels Logic ... */" />
-                <marker date="1568930740650" expanded="true" signature="1356:1770" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="1465:1766" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="1948:2193" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="1981:2052" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="2059:2130" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="2352:2467" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="2721:2829" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="2865:2990" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="2942:2987" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="3047:3136" ph="{...}" />
-                <marker date="1568930740650" expanded="true" signature="3053:3105" ph="/* Must save here all data ... */" />
-                <marker date="1568930740650" expanded="true" signature="3165:3241" ph="{...}" />
+                <marker date="1569518348761" expanded="false" signature="6:122" ph="..." />
+                <marker date="1569518348761" expanded="true" signature="169:1946" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="263:619" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="319:588" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="356:472" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="491:582" ph="{...}" />
+                <marker date="1569518348761" expanded="false" signature="623:879" ph="Login / Logout" />
+                <marker date="1569518348761" expanded="true" signature="677:811" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="844:865" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="915:1130" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="1140:1478" ph="Inviting" />
+                <marker date="1569518348761" expanded="true" signature="1194:1278" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="1311:1464" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="1315:1412" ph="/* FB.Mobile.AppInvite(new System.Uri(&quot;link to playstore here&quot;)); ... */" />
+                <marker date="1569518348761" expanded="true" signature="1524:1938" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="1600:1932" ph="{...}" />
+                <marker date="1569518348761" expanded="true" signature="1850:1928" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1422">
+              <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+              <folding>
+                <marker date="1569588103278" expanded="false" signature="6:127" ph="..." />
+                <marker date="1569588103278" expanded="true" signature="167:2521" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="606:896" ph="/* Test ID's ... */" />
+                <marker date="1569588103278" expanded="true" signature="919:988" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="1132:1586" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="1644:2078" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="1954:2017" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="2024:2074" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="2109:2517" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="2382:2440" ph="{...}" />
+                <marker date="1569588103278" expanded="true" signature="2447:2514" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdTestManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <marker date="1569319620727" expanded="false" signature="6:78" ph="..." />
+                <marker date="1569319620727" expanded="true" signature="122:246" ph="{...}" />
+                <marker date="1569319620727" expanded="true" signature="193:239" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,12 +90,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdTestManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FacebookControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameUIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MainMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/GameUIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/AdTestManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/MainMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/FacebookControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/AdControl.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +122,7 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -97,7 +151,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -145,11 +198,15 @@
       <option name="presentableId" value="Default" />
       <updated>1568930698027</updated>
       <workItem from="1568930708179" duration="91000" />
+      <workItem from="1569309865605" duration="13701000" />
+      <workItem from="1569422534599" duration="1275000" />
+      <workItem from="1569495791920" duration="8781000" />
+      <workItem from="1569584773308" duration="3146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91000" />
+    <option name="totallyTimeSpent" value="26994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -164,19 +221,11 @@
     <frame x="-8" y="-8" width="1874" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26385808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -184,12 +233,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
@@ -207,8 +264,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameUIController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="1440">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <marker date="1568930740650" expanded="false" signature="6:114" ph="..." />
             <marker date="1568930740650" expanded="true" signature="161:3243" ph="{...}" />
@@ -230,6 +287,95 @@
             <marker date="1568930740650" expanded="true" signature="3047:3136" ph="{...}" />
             <marker date="1568930740650" expanded="true" signature="3053:3105" ph="/* Must save here all data ... */" />
             <marker date="1568930740650" expanded="true" signature="3165:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/MainMenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <marker date="1569320483335" expanded="false" signature="6:154" ph="..." />
+            <marker date="1569320483335" expanded="true" signature="203:1169" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="262:361" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="403:439" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="471:502" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="660:1072" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="741:1069" ph="{...}" />
+            <marker date="1569320483335" expanded="true" signature="1111:1167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <marker date="1569320361858" expanded="false" signature="6:135" ph="..." />
+            <marker date="1569320361858" expanded="true" signature="168:423" ph="{...}" />
+            <marker date="1569320361858" expanded="true" signature="239:274" ph="{...}" />
+            <marker date="1569320361858" expanded="true" signature="313:348" ph="{...}" />
+            <marker date="1569320361858" expanded="true" signature="385:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FacebookControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+          <folding>
+            <marker date="1569518348761" expanded="false" signature="6:122" ph="..." />
+            <marker date="1569518348761" expanded="true" signature="169:1946" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="263:619" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="319:588" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="356:472" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="491:582" ph="{...}" />
+            <marker date="1569518348761" expanded="false" signature="623:879" ph="Login / Logout" />
+            <marker date="1569518348761" expanded="true" signature="677:811" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="844:865" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="915:1130" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="1140:1478" ph="Inviting" />
+            <marker date="1569518348761" expanded="true" signature="1194:1278" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="1311:1464" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="1315:1412" ph="/* FB.Mobile.AppInvite(new System.Uri(&quot;link to playstore here&quot;)); ... */" />
+            <marker date="1569518348761" expanded="true" signature="1524:1938" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="1600:1932" ph="{...}" />
+            <marker date="1569518348761" expanded="true" signature="1850:1928" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdTestManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <marker date="1569319620727" expanded="false" signature="6:78" ph="..." />
+            <marker date="1569319620727" expanded="true" signature="122:246" ph="{...}" />
+            <marker date="1569319620727" expanded="true" signature="193:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/AdControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <folding>
+            <marker date="1569588103278" expanded="false" signature="6:127" ph="..." />
+            <marker date="1569588103278" expanded="true" signature="167:2521" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="606:896" ph="/* Test ID's ... */" />
+            <marker date="1569588103278" expanded="true" signature="919:988" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="1132:1586" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="1644:2078" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="1954:2017" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="2024:2074" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="2109:2517" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="2382:2440" ph="{...}" />
+            <marker date="1569588103278" expanded="true" signature="2447:2514" ph="{...}" />
           </folding>
         </state>
       </provider>

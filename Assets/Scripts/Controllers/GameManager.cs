@@ -8,6 +8,11 @@ public static class GameManager
 {
 	public static int 	difficulty = 3;
 
+	public static void 		TestAds()
+	{
+		SceneManager.LoadScene(2);
+	}
+	
 	public static void 		StartNewGame()
 	{
 		SceneManager.LoadScene(1);

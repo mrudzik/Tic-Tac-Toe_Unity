@@ -9,19 +9,22 @@ public class MainMenuController : MonoBehaviour
 {
 //    RectTransform     
 	
-	public void    ButtonExit()
+	public void    Button_Exit()
 	{
 		// save any game data here	
 		Application.Quit();
 //		EditorApplication.isPlaying = false;
 	}
 	
-	public void     StartANewGame()
+	public void     Button_StartANewGame()
 	{
 		GameManager.StartNewGame();
 	}
 
-
+	public void 	Button_TestAds()
+	{
+		GameManager.TestAds();
+	}
 	
 	
 	
