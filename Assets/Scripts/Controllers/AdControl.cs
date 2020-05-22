@@ -6,20 +6,20 @@ using UnityEngine.UI;
 
 public class AdControl : MonoBehaviour
 {
-	[SerializeField] private string adAppID = "ca-app-pub-9930314891066660~4370848487";
+	[SerializeField] private string adAppID = "";
 
  // Production ID's
-	[SerializeField] private string adBannerID = "ca-app-pub-9930314891066660/6744702717";
-	[SerializeField] private string adRegularID = "ca-app-pub-9930314891066660/1272884183";
-	[SerializeField] private string adRewardID = "ca-app-pub-9930314891066660/1133283384";
+	[SerializeField] private string adBannerID = "";
+	[SerializeField] private string adRegularID = "";
+	[SerializeField] private string adRewardID = "";
 
 	[SerializeField] private string deviceID = "D7B04A2464E4B20";
 
 ////// Test ID's
 //
-//	[SerializeField] private string adBannerID = "ca-app-pub-3940256099942544/6300978111";
-//	[SerializeField] private string adRegularID = "ca-app-pub-3940256099942544/1033173712";
-//	[SerializeField] private string adRewardID = "ca-app-pub-3940256099942544/5224354917";
+//	[SerializeField] private string adBannerID = "";
+//	[SerializeField] private string adRegularID = "";
+//	[SerializeField] private string adRewardID = "";
 
 	private void Awake()
 	{
